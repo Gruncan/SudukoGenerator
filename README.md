@@ -1,0 +1,2 @@
+# SudukoGenerator
+Generates Sudukos
